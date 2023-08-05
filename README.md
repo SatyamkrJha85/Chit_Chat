@@ -9,7 +9,7 @@ Register new users
 Login with users that have registered
 Create new chatrooms
 Join chatrooms
-Chat with other users
+Chat with other users.
 
 # Firebase Setup :
 Setup Authentication - Email and Google account
