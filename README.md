@@ -1,7 +1,4 @@
 # Chit_Chat_Chat Application
- <img src="![2](https://github.com/SatyamkrJha85/Chit_Chat/assets/111700337/2cafb04d-9e26-4832-bb2e-39be164a9788)
-" alt="alt text" width="whatever" height="whatever">
-
 
 What is this project?
 This is a simple real-time chat application built using Firebase Authentication and Firestore.
