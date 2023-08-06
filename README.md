@@ -1,6 +1,6 @@
 # Chit_Chat_Chat Application
-<img src="https://![2](https://github.com/SatyamkrJha85/Chit_Chat/assets/111700337/de4a9bd3-58e7-4484-9fb3-8f4f68d2ee26)
-.type" width="100" height="100">
+ <img src="![2](https://github.com/SatyamkrJha85/Chit_Chat/assets/111700337/2cafb04d-9e26-4832-bb2e-39be164a9788)
+" alt="alt text" width="whatever" height="whatever">
 
 
 What is this project?
